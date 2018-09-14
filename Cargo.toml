@@ -1,0 +1,7 @@
+[package]
+name = "product_information"
+version = "0.1.0"
+authors = ["jianhao.guo"]
+
+[dependencies]
+calamine = "^0.14.5"
